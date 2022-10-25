@@ -9,9 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/oswald": "^4.5.11",
+    "@headlessui/react": "^1.7.3",
+    "@heroicons/react": "^2.0.12",
+    "@sanity/client": "^3.4.1",
+    "@sanity/image-url": "^1.0.1",
+    "@stripe/stripe-js": "^1.42.0",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "framer-motion": "^7.6.1",
     "next": "12.3.1",
+    "next-auth": "^4.14.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-headroom": "^3.2.1",
+    "react-hot-toast": "^2.4.0",
+    "react-icons": "^4.6.0",
+    "stripe": "^10.15.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.12",
